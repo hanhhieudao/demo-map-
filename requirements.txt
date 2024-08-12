@@ -3,4 +3,4 @@ geopandas
 leafmap
 owslib
 streamlit
-pkg_resources
+setuptools
